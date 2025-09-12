@@ -36,15 +36,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Ben&Jerry's https://www.benjerry.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+ landing page
+  <img width="1910" height="866" alt="image" src="https://github.com/user-attachments/assets/5eab1e97-25b8-43d5-8389-348eec018c88" />
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  smaken pagina
+ <img width="1912" height="870" alt="image" src="https://github.com/user-attachments/assets/08a26306-37d7-4da0-b416-f73335b33334" />
+
  
 </details>
 
