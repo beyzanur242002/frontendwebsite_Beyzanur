@@ -17,8 +17,130 @@
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	
 }
 
+
+
+
+
+
+header nav img {
+  width: 160px; 
+  height: auto; 
+
+  vertical-align: middle;  
+  
+}
+
+ul {
+	
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	color: #111;
+}
+
+ul li{
+	flex-grow: 1;
+}
+
+ul li a{
+	display: block;
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+
+ul li a:hover {
+
+	text-decoration-color: rgb(197, 197, 231);
+	text-decoration: underline;  
+}
+
+input{
+
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 55px;
+    white-space: normal;
+    text-align: center;
+    outline: none;
+    text-decoration: none ;
+    color: #000 ;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0.5;
+  padding: 0.5;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #000000;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+*******/
+
+ 
 
 
 
@@ -28,4 +150,7 @@
 /****************/
 
 /* jouw code */
+
+/* https://www.w3schools.com/css/css3_buttons.asp dat is voor serach balk*/ 
+/* https://www.w3schools.com/css/css3_buttons.asp dat is voor logo image*/ 
 
