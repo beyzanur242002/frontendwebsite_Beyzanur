@@ -16,7 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Beyzanur Arslan
 
   #### Je startniveau:
   blauw, ik heb al kennis met html en css maar ik wil dit blok met frontend beter worden 
@@ -95,12 +95,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+student 1 beyzanur 
+navigatie menu maken en html elementen en tags
+over font.
+student 2 Quinten
+image achter tekst, kan list style niet aanpassen bij see more, nth of type (0) lukt niet goed om aan te spreken, elementen omdraaien met elkaar (section 1 "animals" moet boven h2). Carousel met die videos. Video element. See more (about fish). hoe verstop je dat. mag een link om h3 heen.
+studenten 3
+studenten 4
 
 
   ### Verslag van meeting
