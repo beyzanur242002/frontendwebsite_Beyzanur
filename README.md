@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
- Beyzanur Arslan
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  blauw, ik heb al kennis met html en css maar ik wil dit blok met frontend beter worden 
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -36,17 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Ben&Jerry's https://www.benjerry.nl/
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
- landing page
-  <img width="1910" height="866" alt="image" src="https://github.com/user-attachments/assets/5eab1e97-25b8-43d5-8389-348eec018c88" />
-
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  smaken pagina
- <img width="1912" height="870" alt="image" src="https://github.com/user-attachments/assets/08a26306-37d7-4da0-b416-f73335b33334" />
-
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -95,13 +93,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-student 1 beyzanur 
-navigatie menu maken en html elementen en tags
-over font.
-student 2 Quinten
-image achter tekst, kan list style niet aanpassen bij see more, nth of type (0) lukt niet goed om aan te spreken, elementen omdraaien met elkaar (section 1 "animals" moet boven h2). Carousel met die videos. Video element. See more (about fish). hoe verstop je dat. mag een link om h3 heen.
-studenten 3
-studenten 4
+
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
