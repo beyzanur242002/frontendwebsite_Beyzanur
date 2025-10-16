@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Beyzanur Arslan
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -40,13 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
- <img width="1893" height="870" alt="image" src="https://github.com/user-attachments/assets/4c718de4-3e16-4696-911e-2a01f7156290" />
-
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
- <img width="1905" height="876" alt="image" src="https://github.com/user-attachments/assets/39e6f69c-db69-40ac-bc74-6056a1c1a8a5" />
-
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -94,21 +92,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Agenda voor meeting
-student 1
-Beyzanur
-Nav menu, html tags, font.
-student 2
-Quinten
-Image achter tekst 
-List style niet aanpasbaar bij "see more"
-nth-of-type(0) lukt niet altijd 
-Elementen omdraaien (section "animals" boven h2)
-"See more" (about fish) verstoppen
-Link om h3 heen
-Border color gold werkt niet op de a, en button borders krijg ik niet weg in nav.
-student 3
-student 4
+  samen met je groepje opstellen
 
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
@@ -135,26 +125,21 @@ student 4
 
 
   ### Agenda voor meeting
- student 1- Quinten Weimer
-  hero image zorgt voor horizontal scroll, en werkt gew niet lekker mee. Ik heb nu sommige dingen op hun plek gezet door ze weg te duwen met margins maar dat werkt responsive beetje ruk. Grid lukt niet bij de ul/li
-  figcaption op zn plek krijgen zonder dat hij naar boven schuift
+  samen met je groepje opstellen
 
-  Student 2- Quincy Kapenga
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
-  ik heb problemen met position sticky bij me nav.en javascript voor de verschillende buttons in mijn nav
-  student 3- Beyzanur Arslan
-Ik heb een list in main en ik vind moeilijk om design te geven en positioneren
 
-student 4- Zakaria Yatim
-Ik loop vast bij de flexbox 
-
- student 5- ilias Khamal
-
- iets met foto
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  opletten dat je elementen niet 2 keer per ongeluk gebruiken
+  - punt 1
+  - punt 2
+  - nog een punt
 - ...
 
 </details>
@@ -189,28 +174,11 @@ Ik loop vast bij de flexbox
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-student 1- Quinten Weimer
-Heb nu nog maar 1 vraag; lukt niet om tweede ul in section aan te spreken
-
-
-  Student 2- Quincy Kapenga
-  Ik met een span 
-  Ik heb alleen een vraag over achtergrond veranderen tijdens het scrollen
- 
-
-
-  student 3- Beyzanur Arslan
-  Ik heb deze week weer vragen over hamburger menu
-Ik heb problemen in mijn site om margin 0 te geven. Het werkt niet.
-Search bar van tweede pagina is niet zoals ik het wil. Ik wil graag dat het in het midden van de pagina staat
-
-student 4- Zakaria Yatim
-
-
- student 5- ilias Khamal
- Wanneer je die mag gebruiken
-
-
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
