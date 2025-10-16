@@ -154,9 +154,7 @@ Ik loop vast bij de flexbox
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  opletten dat je elementen niet 2 keer per ongeluk gebruiken
 - ...
 
 </details>
@@ -191,11 +189,28 @@ Ik loop vast bij de flexbox
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+student 1- Quinten Weimer
+Heb nu nog maar 1 vraag; lukt niet om tweede ul in section aan te spreken
+
+
+  Student 2- Quincy Kapenga
+  Ik met een span 
+  Ik heb alleen een vraag over achtergrond veranderen tijdens het scrollen
+ 
+
+
+  student 3- Beyzanur Arslan
+  Ik heb deze week weer vragen over hamburger menu
+Ik heb problemen in mijn site om margin 0 te geven. Het werkt niet.
+Search bar van tweede pagina is niet zoals ik het wil. Ik wil graag dat het in het midden van de pagina staat
+
+student 4- Zakaria Yatim
+
+
+ student 5- ilias Khamal
+ Wanneer je die mag gebruiken
+
+
 
 
   ### Verslag van meeting
