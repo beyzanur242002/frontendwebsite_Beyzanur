@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  beyzanur arslan
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ surface
  
 </details>
 
@@ -125,13 +125,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  student 1- Quinten Weimer
+  hero image zorgt voor horizontal scroll, en werkt gew niet lekker mee. Ik heb nu sommige dingen op hun plek gezet door ze weg te duwen met margins maar dat werkt responsive beetje ruk. Grid lukt niet bij de ul/li
+  figcaption op zn plek krijgen zonder dat hij naar boven schuift
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Student 2- Quincy Kapenga
+
+  ik heb problemen met position sticky bij me nav.en javascript voor de verschillende buttons in mijn nav
+  student 3- Beyzanur Arslan
+Ik heb een list in main en ik vind moeilijk om design te geven en positioneren
+
+student 4- Zakaria Yatim
+Ik loop vast bij de flexbox 
+
+ student 5- ilias 
 
 
   ### Verslag van meeting
@@ -174,12 +181,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  
+student 1- Quinten Weimer
+Heb nu nog maar 1 vraag; lukt niet om tweede ul in section aan te spreken
 
+
+  Student 2- Quincy Kapenga
+  Ik met een span 
+  Ik heb alleen een vraag over achtergrond veranderen tijdens het scrollen
+ 
+
+
+  student 3- Beyzanur Arslan
+  Ik heb deze week weer vragen over hamburger menu
+Ik heb problemen in mijn site om margin 0 te geven. Het werkt niet.
+Search bar van tweede pagina is niet zoals ik het wil. Ik wil graag dat het in het midden van de pagina staat
+
+student 4- Zakaria Yatim
+
+
+ student 5- ilias Khamal
+ Wanneer je die mag gebruiken
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
