@@ -135,15 +135,22 @@ student 4
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+ student 1- Quinten Weimer
+  hero image zorgt voor horizontal scroll, en werkt gew niet lekker mee. Ik heb nu sommige dingen op hun plek gezet door ze weg te duwen met margins maar dat werkt responsive beetje ruk. Grid lukt niet bij de ul/li
+  figcaption op zn plek krijgen zonder dat hij naar boven schuift
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Student 2- Quincy Kapenga
 
+  ik heb problemen met position sticky bij me nav.en javascript voor de verschillende buttons in mijn nav
+  student 3- Beyzanur Arslan
+Ik heb een list in main en ik vind moeilijk om design te geven en positioneren
 
+student 4- Zakaria Yatim
+Ik loop vast bij de flexbox 
+
+ student 5- ilias Khamal
+
+ iets met foto
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
