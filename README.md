@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  beyzanur arslan
+  Beyzanur Arslan
 
   #### Je startniveau:
-blauw
+  Blauw
 
   #### Je focus:
- surface
+  responsive
  
 </details>
 
@@ -36,15 +36,14 @@ blauw
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  Ben and Jerry's https://www.benjerry.nl/
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home Pagina 
+  <img src="" width="375px" alt="Home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Smaken Pagina 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="Smaken Pagina">
  
 </details>
 
@@ -94,20 +93,19 @@ blauw
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Student 1 – Quincy: volgorde van HTML, CSS border van li
+  Student 2 – Beyzanur: nav-menu, HTML-elementen/tags, fonts
+  Student 3 – Quinten: image achter tekst
+  Student 4 – Ilias: algemene HTML-feedback, gebruik van list / article, wanneer wel/geen section
+
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  -  max img width 100% bovenaan
+  -  hoe je hamburger menu op hmtl
 
 </details>
 
@@ -125,29 +123,42 @@ blauw
 
 
   ### Agenda voor meeting
-  student 1- Quinten Weimer
+  samen met je groepje opstellen
+
+   student 1- Quinten Weimer
   hero image zorgt voor horizontal scroll, en werkt gew niet lekker mee. Ik heb nu sommige dingen op hun plek gezet door ze weg te duwen met margins maar dat werkt responsive beetje ruk. Grid lukt niet bij de ul/li
   figcaption op zn plek krijgen zonder dat hij naar boven schuift
 
   Student 2- Quincy Kapenga
-
   ik heb problemen met position sticky bij me nav.en javascript voor de verschillende buttons in mijn nav
+
   student 3- Beyzanur Arslan
-Ik heb een list in main en ik vind moeilijk om design te geven en positioneren
+  Ik heb een list in main en ik vind moeilijk om design te geven en positioneren
 
-student 4- Zakaria Yatim
-Ik loop vast bij de flexbox 
+  student 4- Zakaria Yatim
+  Ik loop vast bij de flexbox 
 
- student 5- ilias 
+ student 5- ilias Khamal
+
+ iets met foto
+
+
+
+
+
+
+
+
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - ik had 2 nav gebruikt daardoor werkte mijn code niet ik heb geleerd dat alle css vooral netjes moet zijn zodat je goed selecteer 
+  - Elke section moet een heading hebben
+
+
 
 </details>
 
@@ -181,36 +192,20 @@ Ik loop vast bij de flexbox
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  
-student 1- Quinten Weimer
-Heb nu nog maar 1 vraag; lukt niet om tweede ul in section aan te spreken
+  student 1- Quinten Weimer Heb nu nog maar 1 vraag; lukt niet om tweede ul in section aan te spreken
 
+  Student 2- Quincy Kapenga Ik met een span Ik heb alleen een vraag over achtergrond veranderen tijdens het scrollen
 
-  Student 2- Quincy Kapenga
-  Ik met een span 
-  Ik heb alleen een vraag over achtergrond veranderen tijdens het scrollen
- 
-
-
-  student 3- Beyzanur Arslan
-  Ik heb deze week weer vragen over hamburger menu
-Ik heb problemen in mijn site om margin 0 te geven. Het werkt niet.
-Search bar van tweede pagina is niet zoals ik het wil. Ik wil graag dat het in het midden van de pagina staat
+student 3- Beyzanur Arslan Ik heb deze week weer vragen over hamburger menu Ik heb problemen in mijn site om margin 0 te geven. Het werkt niet. Search bar van tweede pagina is niet zoals ik het wil. Ik wil graag dat het in het midden van de pagina staat
 
 student 4- Zakaria Yatim
 
-
- student 5- ilias Khamal
- Wanneer je die mag gebruiken
-
+student 5- ilias Khamal Wanneer je die mag gebruiken  
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - hoe je dropdown menu maakt 
+  - details, summary
 </details>
 
 
@@ -251,8 +246,13 @@ student 4- Zakaria Yatim
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode
+  2. https://www.youtube.com/watch?v=_gKEUYarehE
+  3. https://www.flaticon.com/free-icon/brightness_1687737?term=light+mode&page=1&position=11&origin=tag&related_id=1687737
+  4. https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type*/
+  5.  https://www.youtube.com/watch?v=br-0i3U1VCA
+  6. https://codepen.io/shooft/live/LEpePbz
+  7. https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar*/
+  8. https://www.youtube.com/watch?v=2KL-z9A56SQ 
 
 </details>
