@@ -16,13 +16,13 @@
 <body>
 	<header>
 		<a href="#index.html" class="logofoto"><img src="images/logoBen&Jerry's.avif" alt="logofoto"></a>
-		<button aria-hidden="true"><img src="https://assets.codepen.io/274456/ui-icon-hamburger.svg" alt="" /></button>
+		<button aria-hidden="true"><img src="images/menu.png" alt="menuimage" />
+		</button>
 
 		<nav>
 			<ul>
-				<li><label for="site-search">Search the site:</label>
-                <input type="search" id="site-search" name="q">
-                <button>Search</button> </li>
+				<li><a href="#index.html" class="logofoto"><img src="images/logoBen&Jerry's.avif" alt="logofoto"></a></li>
+                <li><input type="search" placeholder="Search our website.."></li>
 				<li><a href="">Smaken</a></li>
 			    <li><a href="">Verkooppunten</a></li>
 			    <li><a href="">Activisme</a></li>
@@ -30,7 +30,7 @@
 			    <li><a href="">Nieuwtjes</a></li>
 				
 			</ul>
-			<button aria-hidden="true"><img src="https://assets.codepen.io/274456/ui-icon-cross.svg" alt="" /></button>
+			<button aria-label="true"><img src="https://assets.codepen.io/274456/ui-icon-cross.svg" alt="menukruisje" /></button>
     
 	
 	    </nav>
@@ -40,14 +40,14 @@
 	<main>
 		<section>
 			<img src="images/ben&jerrysLandingpaginafoto.webp" alt="Homepaginafoto">
-			<h2>Bohemian Raspberry</h1>
+			<h2>Bohemian Raspberry</h2>
 			<p>Laat je smaakpapillen rocken met de terugkeer van de zoete eerbetoon aan muziekroyalty Queen, ter gelegenheid van de 50e verjaardag van hun legendarische nummer, "Bohemian Rhapsody"! </p>
 			<a href="#">lees Meer</a>
 		</section>
 
 		<section>
 			<img src="images/Verkooppunten_card_buy_ice_cream.avif" alt="Verkooppunten">
-			<h1>Verkooppunten</h1>
+			<h2>Verkooppunten</h2>
 			<p>Vind jouw dichtstbijzijnde supermarkt of laat Ben & Jerry’s bezorgen door een restaurant of bezorg partner.</p>
 			<a href="#">Vind nu!</a>
 
@@ -55,7 +55,7 @@
 
 		<section>
 			<img src="images/doemee_wereldfotomethanden.webp" alt="doemeeenontdek">
-			<h1>Doe mee</h1>
+			<h2>Doe mee</h2>
 			<p>Wij spreken ons uit over onderwerpen die ons nauw aan het hart liggen. Ontdek hoe jij kan helpen. </p>
 			<a href="#">Ontdek meer over onze waarden</a>
 
@@ -90,7 +90,7 @@
 
 		</section>
 
-		<section>
+		<section id="dolgraag">
 			<h1>Wij maken dolgraag ijs, maar ons werk krijgt pas echt betekenis wanneer wij ons bedrijf inzetten om de wereld mooier te maken. </h1>
 			<ul>
 				<li>
@@ -119,48 +119,62 @@
 
 	</main>
 	<footer>
+		<section>
+			<img src="images/Koeimage.svg" alt="koeimage">
+			<h1>Meld je aan voor onze nieuwsbrief</h1>
+			<p>Wij zorgen ervoor dat je als eerste op de hoogte bent van nieuwe smaken, fun activiteiten en sociale initiatieven van Ben & Jerry's! Get the scoop!</p>
+			
+			<form>
+               <label class="visually-hidden" for="zoekveld">zoeken</label>
+               <input id="zoekveld" type="search">
+               <button> zoeken</button>
+            </form>
 
-		<h1>Meld je aan voor onze nieuwsbrief</h1>
-		<p>Wij zorgen ervoor dat je als eerste op de hoogte bent van nieuwe smaken, fun activiteiten en sociale initiatieven van Ben & Jerry's! Get the scoop!</p>
-		<h2>Blijf op de hoogte</h2>
-		<a href="#smaken.html">Stuur ons feedback</a>
-		<a href="#smaken.html">unsubscribe</a>
+			<h2>Blijf op de hoogte</h2>
+			<a href="#smaken.html">Stuur ons feedback</a>
+			<a href="#smaken.html">unsubscribe</a>
+		</section>
 
-		<h2>Volg ons!</h2>
-		<ul>
-		  <li><img src="images/facebooklogo.svg" alt="facebooklogo"></li>
-		  <li><img src="images/instalogo.svg" alt="instalogo"></li>
-		  <li><img src="images/tiktoklogo.svg" alt="tiktoklogo"></li>
-		  <li><img src="images/twitterlogo.svg" alt="twitterlogo"></li>
-		</ul>
+		<section>
 
-		<h2>Meer informatie</h2>
-		<ul>
-			<li><a href="#smaken.html">Nieuws</a></li>
-			<li><a href="#smaken.html">Over ons</a></li>
-			<li><a href="#smaken.html">Hoe wij zaken doen</a></li>
-			<li><img src="images/logo_nederlandsevlag.webp" alt="nederlandsevlaglogo"></li>
-		</ul>
+			<h2>Volg ons!</h2>
+			<ul>
+		  		<li><img src="images/facebooklogo.svg" alt="facebooklogo"></li>
+		  		<li><img src="images/instalogo.svg" alt="instalogo"></li>
+		  		<li><img src="images/tiktoklogo.svg" alt="tiktoklogo"></li>
+		  		<li><img src="images/twitterlogo.svg" alt="twitterlogo"></li>
+			</ul>
+		</section>
+
+		<section>
+			<h2>Meer informatie</h2>
+			<ul>
+				<li><a href="#smaken.html">Nieuws</a></li>
+				<li><a href="#smaken.html">Over ons</a></li>
+				<li><a href="#smaken.html">Hoe wij zaken doen</a></li>
+				<li><img src="images/logo_nederlandsevlag.webp" alt="nederlandsevlaglogo"></li>
+			</ul>
+		
 
 		
-		<ul>
+		    <ul>
 		
-			<li><a href="#smaken.html">Toegankelijkheid</a></li>
-			<li><a href="#smaken.html">Neem contact met ons</a></li>
-			<li><a href="#smaken.html">Cookieverklaring</a></li>
-			<li><a href="#smaken.html">Privacyverklaring</a></li>
-			<li><a href="#smaken.html">Gebruiksvoorwaarden</a></li>
-			<li><a href="#smaken.html">Sitemap</a></li>
-		</ul>
-
-
-
+				<li><a href="#smaken.html">Toegankelijkheid</a></li>
+				<li><a href="#smaken.html">Neem contact met ons</a></li>
+				<li><a href="#smaken.html">Cookieverklaring</a></li>
+				<li><a href="#smaken.html">Privacyverklaring</a></li>
+				<li><a href="#smaken.html">Gebruiksvoorwaarden</a></li>
+				<li><a href="#smaken.html">Sitemap</a></li>
+			</ul>
+		</section>
 		
-
 	</footer>
 
 	<script defer src="scripts/script.js"></script>
+	
 </body>
 	
 </html>
+
+
 
