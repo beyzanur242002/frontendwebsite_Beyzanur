@@ -38,13 +38,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   Ben and Jerry's https://www.benjerry.nl/
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home Pagina 
-  <img src="" width="375px" alt="Home pagina">
-
+   Home Pagina 
+  <img src="readme-images/ben&jerryHomePagina.png" alt="Homepagina" width="375px" alt="Home pagina">
+  
   #### Screenshot(s) van de tweede pagina (small screen):
   Smaken Pagina 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="Smaken Pagina">
- 
+
+  <img src="readme-images/ben&jerrysmakenpagina.png" alt="smaken pagina" width="375px" alt="Home pagina">
+
 </details>
 
 
